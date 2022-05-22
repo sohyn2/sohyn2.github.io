@@ -3,7 +3,7 @@ layout: post
 title: 2022 TODOLIST
 ---
 
-# BIG PICTURE
+## BIG PICTURE
 -------------
 1. 임베디드 공부 - 네이버 랩스 두드려 보기
    > ![image](https://user-images.githubusercontent.com/106008395/169684588-1e42a7d9-58f0-41dc-a872-ee4ee54be782.png)
@@ -14,7 +14,7 @@ title: 2022 TODOLIST
    > ![image](https://user-images.githubusercontent.com/106008395/169684687-55e5fc3a-ce31-44d3-ba1a-0df70e8b3ef0.png)
    
 
-# 2022 PLAN
+## 2022 PLAN
 -------------
 - 5-6월
   FE 기초 다지기
@@ -31,6 +31,6 @@ title: 2022 TODOLIST
 - 12월
   앱 개발 도전
   
- # 다짐
+ ## 다짐
  ------------
- ## 정신차리자! 회사에서도 열심히!!!
+ ### 정신차리자! 회사에서도 열심히!!!
